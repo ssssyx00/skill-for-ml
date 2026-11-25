@@ -1,0 +1,4 @@
+interface:
+  display_name: "机器学习学习与复习助手"
+  short_description: "零基础机器学习辅导：讲清步骤，减少询问，自动判断深入价值"
+  default_prompt: "使用 $skill-for-ml 按零基础讲解这份机器学习课件，直接讲清必要步骤，判断哪些值得深入，并记录可留到复习的卡点。"
